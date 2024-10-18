@@ -1,0 +1,13 @@
+{
+  "name": "kllxs/exception",
+  "type": "library",
+  "license": "MIT",
+  "description": "Webman plugin kllxs/exception",
+  "require": {
+  },
+  "autoload": {
+    "psr-4": {
+      "Kllxs\\Exception\\": "src"
+    }
+  }
+}
